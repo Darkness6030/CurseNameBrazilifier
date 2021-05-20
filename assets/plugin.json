@@ -1,0 +1,11 @@
+{
+  "name": "plugin",
+  "displayName": "Plugin Template",
+  "description": "-_-",
+  "author": "MinDurka",
+  "main": "inside.Template",
+  "hidden": false,
+  "java": true,
+  "version": "1.0",
+  "minGameVersion": 126.2
+}
