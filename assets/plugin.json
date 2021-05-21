@@ -3,7 +3,7 @@
   "displayName": "Plugin Template",
   "description": "-_-",
   "author": "MinDurka",
-  "main": "inside.Template",
+  "main": "inside.CurseFilter",
   "hidden": false,
   "java": true,
   "version": "1.0",
