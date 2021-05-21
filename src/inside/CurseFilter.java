@@ -16,7 +16,7 @@ public class CurseFilter extends Plugin{
         Events.on(PlayerConnect.class, event -> {
             for(String bruh : ohno){
                 if(event.player.name.toLowerCase().contains(bruh)){
-                    event.player.con.kick("Ты не мог бы выбрать имя получше? Непристойные ники запрещены.");
+                    event.player.con.kick("Ты не мог бы выбрать имя получше? Непристойные ники запрещены. \n Если ты считаешь, что ник заблокирован несправедливо, напиши в наш [blue]Discord[]: https://discord.gg/N5AY8VtnKX");
                     break;
                 }
             }
